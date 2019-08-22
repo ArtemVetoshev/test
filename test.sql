@@ -1,3 +1,3 @@
-select * from airlines 
-where airline_name  like 'B%'
-order by 1 desc;
+select id, airline_name from airlines 
+where airline_name  like 'C%' and airline_name like 'D%'
+order by 2 desc;
