@@ -1,0 +1,13 @@
+{
+   "firstName": "Artem",
+   "lastName": "Vetoshev",
+   "address": {
+       "streetAddress": "4 krasnoarmeiskaya",
+       "city": "Saint-Petersburg",
+       "postalCode": 190005
+   },
+   "phoneNumbers": [
+       "111 123-1234",
+       "222 123-4567"
+   ]
+}
